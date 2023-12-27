@@ -1,0 +1,10 @@
+﻿  pch.cpp
+  dllmain.cpp
+  Hermite.cpp
+D:\Nil_Workspace\QT_Framework\Visualizer\Hermite\Hermite.cpp(22,35): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Nil_Workspace\QT_Framework\Visualizer\Hermite\Hermite.cpp(32,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Nil_Workspace\QT_Framework\Visualizer\Hermite\Hermite.cpp(33,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Nil_Workspace\QT_Framework\Visualizer\Hermite\Hermite.cpp(34,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+     Creating library D:\Nil_Workspace\QT_Framework\Visualizer\x64\Debug\Hermite.lib and object D:\Nil_Workspace\QT_Framework\Visualizer\x64\Debug\Hermite.exp
+  Hermite.vcxproj -> D:\Nil_Workspace\QT_Framework\Visualizer\x64\Debug\Hermite.dll

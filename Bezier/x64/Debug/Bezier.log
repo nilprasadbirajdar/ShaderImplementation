@@ -1,0 +1,10 @@
+﻿  pch.cpp
+  Bezier.cpp
+D:\Nil_Workspace\QT_Framework\Visualizer\Bezier\Bezier.cpp(21,41): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Nil_Workspace\QT_Framework\Visualizer\Bezier\Bezier.cpp(24,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Nil_Workspace\QT_Framework\Visualizer\Bezier\Bezier.cpp(25,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Nil_Workspace\QT_Framework\Visualizer\Bezier\Bezier.cpp(26,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  dllmain.cpp
+  Generating Code...
+     Creating library D:\Nil_Workspace\QT_Framework\Visualizer\x64\Debug\Bezier.lib and object D:\Nil_Workspace\QT_Framework\Visualizer\x64\Debug\Bezier.exp
+  Bezier.vcxproj -> D:\Nil_Workspace\QT_Framework\Visualizer\x64\Debug\Bezier.dll
