@@ -1,0 +1,12 @@
+﻿  pch.cpp
+  dllmain.cpp
+  SimpleDDA.cpp
+D:\Nil_Workspace\QT_Framework\Visualizer\SimpleDDA\SimpleDDA.h(19,16): warning C4251: 'SimpleDDA::mVertices': class 'std::vector<float,std::allocator<float>>' needs to have dll-interface to be used by clients of class 'SimpleDDA'
+D:\Nil_Workspace\QT_Framework\Visualizer\SimpleDDA\SimpleDDA.h(15,16): message : see declaration of 'std::vector<float,std::allocator<float>>'
+D:\Nil_Workspace\QT_Framework\Visualizer\SimpleDDA\SimpleDDA.h(20,16): warning C4251: 'SimpleDDA::mColors': class 'std::vector<float,std::allocator<float>>' needs to have dll-interface to be used by clients of class 'SimpleDDA'
+D:\Nil_Workspace\QT_Framework\Visualizer\SimpleDDA\SimpleDDA.h(15,16): message : see declaration of 'std::vector<float,std::allocator<float>>'
+D:\Nil_Workspace\QT_Framework\Visualizer\SimpleDDA\SimpleDDA.cpp(60,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Nil_Workspace\QT_Framework\Visualizer\SimpleDDA\SimpleDDA.cpp(61,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+     Creating library D:\Nil_Workspace\QT_Framework\Visualizer\x64\Debug\SimpleDDA.lib and object D:\Nil_Workspace\QT_Framework\Visualizer\x64\Debug\SimpleDDA.exp
+  SimpleDDA.vcxproj -> D:\Nil_Workspace\QT_Framework\Visualizer\x64\Debug\SimpleDDA.dll

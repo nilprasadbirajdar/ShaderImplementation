@@ -1,0 +1,52 @@
+﻿  pch.cpp
+  dllmain.cpp
+  SutherlandCohen.cpp
+D:\Nil_Workspace\QT_Framework\Visualizer\Geometry\Shape.h(17,20): warning C4251: 'Shape::mLines': class 'std::vector<Line,std::allocator<Line>>' needs to have dll-interface to be used by clients of class 'Shape'
+D:\Nil_Workspace\QT_Framework\Visualizer\Geometry\Shape.h(14,7): message : see declaration of 'std::vector<Line,std::allocator<Line>>'
+D:\Nil_Workspace\QT_Framework\Visualizer\SutherlandCohen\SutherlandCohen.h(19,16): warning C4251: 'SutherlandCohen::verticesOfOrignalLine': class 'std::vector<float,std::allocator<float>>' needs to have dll-interface to be used by clients of class 'SutherlandCohen'
+D:\Nil_Workspace\QT_Framework\Visualizer\SutherlandCohen\SutherlandCohen.h(12,50): message : see declaration of 'std::vector<float,std::allocator<float>>'
+D:\Nil_Workspace\QT_Framework\Visualizer\SutherlandCohen\SutherlandCohen.h(20,16): warning C4251: 'SutherlandCohen::colorOfOrignalLine': class 'std::vector<float,std::allocator<float>>' needs to have dll-interface to be used by clients of class 'SutherlandCohen'
+D:\Nil_Workspace\QT_Framework\Visualizer\SutherlandCohen\SutherlandCohen.h(12,50): message : see declaration of 'std::vector<float,std::allocator<float>>'
+D:\Nil_Workspace\QT_Framework\Visualizer\SutherlandCohen\SutherlandCohen.cpp(46,39): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+D:\Nil_Workspace\QT_Framework\Visualizer\SutherlandCohen\SutherlandCohen.cpp(47,39): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+D:\Nil_Workspace\QT_Framework\Visualizer\SutherlandCohen\SutherlandCohen.cpp(49,37): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+D:\Nil_Workspace\QT_Framework\Visualizer\SutherlandCohen\SutherlandCohen.cpp(50,37): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+D:\Nil_Workspace\QT_Framework\Visualizer\SutherlandCohen\SutherlandCohen.cpp(120,43): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+D:\Nil_Workspace\QT_Framework\Visualizer\SutherlandCohen\SutherlandCohen.cpp(121,43): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+D:\Nil_Workspace\QT_Framework\Visualizer\SutherlandCohen\SutherlandCohen.cpp(123,41): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+D:\Nil_Workspace\QT_Framework\Visualizer\SutherlandCohen\SutherlandCohen.cpp(124,41): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+  Generating Code...
+     Creating library D:\Nil_Workspace\QT_Framework\Visualizer\x64\Debug\SutherlandCohen.lib and object D:\Nil_Workspace\QT_Framework\Visualizer\x64\Debug\SutherlandCohen.exp
+  SutherlandCohen.vcxproj -> D:\Nil_Workspace\QT_Framework\Visualizer\x64\Debug\SutherlandCohen.dll
